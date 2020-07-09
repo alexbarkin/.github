@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="alexbarkin.github.io">
+  <a href="https://alexbarkin.github.io">
     <img alt="Alex Barkin" src="https://github.com/alexbarkin/alexbarkin.github.io/blob/Gatsby-Dev/static/AB-icon.svg" width="60" />
   </a>
 </p>
