@@ -7,7 +7,7 @@
   Hi! I'm Alex.
 </h1>
 
-My name is [Alex Barkin](alexbarkin.github.io), and I'm very glad you found me!
+My name is [Alex Barkin](https://alexbarkin.github.io), and I'm very glad you found me!
 
 I'm currently a member of the Mechatronics class of 2022 at the University of Waterloo. I am going into my third year of studies and have had 3 co-ops ranging from mechanical design to software design.
 
